@@ -3,11 +3,11 @@ Class: CS4541
 Assignment: Assignment 0  
 Author(s): Ramses Larabel
 
-#Description
+# Description
 First basic assignment for Computer Systems Fundamental
 
-#Inputs / Outputs
-##Command Line Input
-```./a.out
-##Command Line Output
-```Hello, World!
+# Inputs / Outputs
+## Command Line Input
+``` ./a.out
+## Command Line Output
+``` Hello, World!
