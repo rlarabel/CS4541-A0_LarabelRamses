@@ -1,4 +1,4 @@
-Date: 9/11/2023  
+Date: 9/13/2023  
 Class: CS4541
 Assignment: Assignment 0  
 Author(s): Ramses Larabel
@@ -8,6 +8,6 @@ First basic assignment for Computer Systems Fundamental
 
 # Inputs / Outputs
 ## Command Line Input
-``` ./a.out
+``` ./a.out ```
 ## Command Line Output
-``` Hello, World!
+``` Hello, World! ```
