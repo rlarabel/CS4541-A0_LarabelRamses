@@ -8,6 +8,9 @@ First basic assignment for Computer Systems Fundamental
 
 # Inputs / Outputs
 ## Command Line Input
-``` ./a.out ```
+``` 
+make
+./a.out
+```
 ## Command Line Output
 ``` Hello, World! ```
